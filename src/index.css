@@ -5,3 +5,28 @@
 * {
   font-family: 'Manrope', sans-serif;
 }
+
+.custom-bg {
+  background-color: #f9f9ff;
+}
+
+.custom-area {
+  @apply w-10/12 mx-auto
+}
+
+.f-dark {
+  color: #757575;
+}
+
+.f-blue {
+  background: -webkit-linear-gradient(90deg, #7E90FE 0%, #9873FF 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.btn-bg {
+  background: linear-gradient(90deg, #7E90FE 0%, #9873FF 100%);
+  border-radius: 8px;
+  width: 190px;
+  height: 65px;
+}
