@@ -16,6 +16,8 @@
 
 .f-dark {
   color: #757575;
+  font-weight: 600;
+  font-size: 20px;
 }
 
 .f-blue {
@@ -29,4 +31,13 @@
   border-radius: 8px;
   width: 190px;
   height: 65px;
+  color: white;
+}
+
+.btn-details {
+  width: 155px;
+  height: 48px;
+  background: linear-gradient(90deg, #7E90FE 0%, #9873FF 100%);
+  border-radius: 4px;
+  color: white;
 }

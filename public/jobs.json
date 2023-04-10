@@ -1,0 +1,116 @@
+[
+    {
+        "id": "6433977a184a6532ce085d87",
+        "index": 0,
+        "companyLogo": "../src/assets/Logo/google.png",
+        "jobTitle": "Frontend Developer",
+        "companyName": "Google",
+        "remoteOrOnsite": "Remote",
+        "location": "Any Location",
+        "fulltimeOrPartTime": "Full-time",
+        "salary": "$60,000 - $80,000",
+        "jobDescription": "Responsible for developing user-facing web applications using modern frontend technologies such as React, Angular, and Vue.",
+        "jobResponsibility": "Design and implement responsive and accessible web interfaces. Collaborate with UX/UI designers and backend developers to implement new features and improve existing functionalities. Write clean and maintainable code following coding standards. Perform testing and debugging of web applications. Stay updated with the latest frontend technologies and best practices.",
+        "educationalRequirements": "Bachelor’s degree in Computer Science or related field.",
+        "experiences": "Minimum of 2 years of experience in frontend web development. Strong proficiency in HTML, CSS, and JavaScript. Experience with modern frontend frameworks such as React, Angular, or Vue. Familiarity with version control tools such as Git. Strong problem-solving and debugging skills.",
+        "contactInformation": {
+            "phone": "123-456-7890",
+            "email": "google@gmail.com"
+        }
+    },
+    {
+        "id": "6433977a427b7f8bcfbfb9cd",
+        "index": 1,
+        "companyLogo": "../src/assets/Logo/netflix.png",
+        "jobTitle": "Backend Developer",
+        "companyName": "NetFlix",
+        "remoteOrOnsite": "Onsite",
+        "location": "Seattle, WA",
+        "fulltimeOrPartTime": "Full-time",
+        "salary": "$80,000 - $100,000",
+        "jobDescription": "Responsible for developing server-side logic, building and optimizing APIs, and integrating with databases.",
+        "jobResponsibility": "Design and implement efficient and scalable server-side architectures. Collaborate with frontend developers and database administrators to implement backend functionalities. Write clean and maintainable code following coding standards. Perform testing and debugging of backend applications. Stay updated with the latest backend technologies and best practices.",
+        "educationalRequirements": "Bachelor’s degree in Computer Science or related field.",
+        "experiences": "Minimum of 3 years of experience in backend development. Strong proficiency in at least one backend language such as Java, Python, or Node.js. Experience with RESTful APIs, databases, and version control tools. Strong problem-solving and debugging skills.",
+        "contactInformation": {
+            "phone": "987-654-3210",
+            "email": "netflix@gmail.com"
+        }
+    },
+    {
+        "id": "6433977a0a66e5b018b15eb2",
+        "index": 2,
+        "companyLogo": "../src/assets/Logo/amazon.png",
+        "jobTitle": "Full Stack Developer",
+        "companyName": "Amazon Web Services",
+        "remoteOrOnsite": "Onsite",
+        "location": "Seattle, WA",
+        "fulltimeOrPartTime": "Part-time",
+        "salary": "$90,000 - $120,000",
+        "jobDescription": "Responsible for developing end-to-end web applications using both frontend and backend technologies.",
+        "jobResponsibility": "Design and implement user-friendly web interfaces. Develop server-side logic, APIs, and integrate with databases. Write clean and maintainable code following coding standards. Perform testing and debugging of web applications. Collaborate with frontend and backend developers to implement new features and improve existing functionalities. Stay updated with the latest web development technologies and best practices.",
+        "educationalRequirements": "Bachelor’s degree in Computer Science or related field.",
+        "experiences": "Minimum of 4 years of experience in web development. Strong proficiency in HTML, CSS, JavaScript, and at least one backend language such as Node.js, Python, or Ruby. Experience with frontend frameworks such as React, Angular, or Vue. Familiarity with version control tools such as Git. Strong problem-solving and debugging skills.",
+        "contactInformation": {
+            "phone": "555-123-4567",
+            "email": "awsjobs@gmail.com"
+        }
+    },
+    {
+        "id": "6433977a61a0d6b7b099d0a6",
+        "index": 3,
+        "companyLogo": "../src/assets/Logo/tesla.png",
+        "jobTitle": "Frontend Developer",
+        "companyName": "Tesla",
+        "remoteOrOnsite": "Remote",
+        "location": "New York, NY",
+        "fulltimeOrPartTime": "Full-time",
+        "salary": "$60,000 - $80,000",
+        "jobDescription": "Responsible for developing user-facing web applications using modern frontend technologies such as React, Angular, and Vue.",
+        "jobResponsibility": "Design and implement responsive and accessible web interfaces. Collaborate with UX/UI designers and backend developers to implement new features and improve existing functionalities. Write clean and maintainable code following coding standards. Perform testing and debugging of web applications. Stay updated with the latest frontend technologies and best practices.",
+        "educationalRequirements": "Bachelor’s degree in Computer Science or related field.",
+        "experiences": "Minimum of 2 years of experience in frontend web development. Strong proficiency in HTML, CSS, and JavaScript. Experience with modern frontend frameworks such as React, Angular, or Vue. Familiarity with version control tools such as Git. Strong problem-solving and debugging skills.",
+        "contactInformation": {
+            "phone": "123-456-7890",
+            "email": "abcs@gmail.com"
+        }
+    },
+    {
+        "id": "6433977a89a2d6cef6af7935",
+        "index": 4,
+        "companyLogo": "../src/assets/Logo/facebook.png",
+        "jobTitle": "Backend Developer",
+        "companyName": "Facebook",
+        "remoteOrOnsite": "Onsite",
+        "location": "Seattle, WA",
+        "fulltimeOrPartTime": "Full-time",
+        "salary": "$80,000 - $100,000",
+        "jobDescription": "Responsible for developing server-side logic and APIs for web applications using backend technologies such as Node.js, Django, or ASP.NET.",
+        "jobResponsibility": "Design and implement scalable and efficient backend systems. Collaborate with frontend developers and database administrators to optimize performance and improve functionality. Write clean and maintainable code following coding standards. Perform testing and debugging of server-side applications. Stay updated with the latest backend technologies and best practices.",
+        "educationalRequirements": "Bachelor’s degree in Computer Science or related field.",
+        "experiences": "Minimum of 3 years of experience in backend web development. Strong proficiency in at least one backend programming language such as JavaScript, Python, or C#. Experience with server-side frameworks such as Express, Django, or ASP.NET. Familiarity with version control tools such as Git. Strong problem-solving and debugging skills.",
+        "contactInformation": {
+            "phone": "987-654-3210",
+            "email": "facebook@gmail.com"
+        }
+    },
+    {
+        "id": "6433977a8838007cc4a4ebfb",
+        "index": 5,
+        "companyLogo": "../src/assets/Logo/microsoft.png",
+        "jobTitle": "Backend Developer",
+        "companyName": "Microsoft",
+        "remoteOrOnsite": "Onsite",
+        "location": "Seattle, WA",
+        "fulltimeOrPartTime": "Full-time",
+        "salary": "$80,000 - $100,000",
+        "jobDescription": "Responsible for developing server-side logic and APIs for web applications using backend technologies such as Node.js, Django, or ASP.NET.",
+        "jobResponsibility": "Design and implement scalable and efficient backend systems. Collaborate with frontend developers and database administrators to optimize performance and improve functionality. Write clean and maintainable code following coding standards. Perform testing and debugging of server-side applications. Stay updated with the latest backend technologies and best practices.",
+        "educationalRequirements": "Bachelor’s degree in Computer Science or related field.",
+        "experiences": "Minimum of 3 years of experience in backend web development. Strong proficiency in at least one backend programming language such as JavaScript, Python, or C#. Experience with server-side frameworks such as Express, Django, or ASP.NET. Familiarity with version control tools such as Git. Strong problem-solving and debugging skills.",
+        "contactInformation": {
+            "phone": "987-654-3210",
+            "email": "microsoft@gmail.com"
+        }
+    }
+]
