@@ -9,6 +9,8 @@ const FeaturedJobs = ({ loaderData }) => {
         setJobs(loaderData);
     }
 
+    console.log(jobs);
+
     return (
         <div className='mt-32 mb-32'>
             <h1 className='text-5xl text-center'>Featured Jobs</h1>
@@ -21,9 +23,14 @@ const FeaturedJobs = ({ loaderData }) => {
                     ></Job>)
                 }
             </div>
-            <div className='text-center'>
-                <button onClick={handleAllJobs} className='btn-bg mt-10'>See All Jobs</button>
-            </div>
+
+            {
+                jobs.length == 4 &&
+                <div className='text-center'>
+                    <button onClick={handleAllJobs} className='btn-bg mt-10'>See All Jobs</button>
+                </div>
+            }
+
         </div>
     );
 };

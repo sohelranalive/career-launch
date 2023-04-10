@@ -1,8 +1,15 @@
 import React from 'react';
+import { useNavigate } from 'react-router-dom';
 
 const Job = ({ job }) => {
 
-    const { companyLogo, jobTitle, companyName, remoteOrOnsite, fulltimeOrPartTime, location, salary } = job;
+    const { id, index, companyLogo, jobTitle, companyName, remoteOrOnsite, fulltimeOrPartTime, location, salary } = job;
+
+    const navigate = useNavigate();
+
+    const handleJobDetails = (id) => {
+        navigate(`/jobdetails/${id}`);
+    }
 
     return (
         <div className='border rounded-md p-10'>
@@ -17,7 +24,7 @@ const Job = ({ job }) => {
                 <p>{location}</p>
                 <p>{salary}</p>
             </div>
-            <button className='mt-6 btn-details'>View Details</button>
+            <button onClick={() => handleJobDetails(id)} className='mt-6 btn-details'>View Details</button>
         </div>
     );
 };
