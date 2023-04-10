@@ -10,7 +10,7 @@ const FeaturedJobs = ({ loaderData }) => {
     }
 
     return (
-        <div className='border mt-32 mb-32'>
+        <div className='mt-32 mb-32'>
             <h1 className='text-5xl text-center'>Featured Jobs</h1>
             <p className='text-center mt-4 mb-4'>Explore thousands of job opportunities with all the information you need. Its your future</p>
             <div className='mt-8 grid grid-cols-2 gap-6'>

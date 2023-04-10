@@ -6,7 +6,7 @@ import designer from '../../assets/Icons/social-media 1.png'
 
 const JobCategory = () => {
     return (
-        <div className='border mt-32'>
+        <div className='mt-32'>
             <h1 className='text-5xl text-center'>Job Category List</h1>
             <p className='text-center mt-4 mb-4'>Explore thousands of job opportunities with all the information you need. Its your future</p>
             <div className='flex pt-8 justify-between gap-6'>

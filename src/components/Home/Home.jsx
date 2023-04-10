@@ -3,6 +3,7 @@ import Banner from '../Banner/Banner';
 import JobCategory from '../JobCategory/JobCategory';
 import FeaturedJobs from '../FeaturedJobs/FeaturedJobs';
 import { useLoaderData } from 'react-router-dom';
+import Footer from '../Footer/Footer';
 
 const Home = () => {
     const loaderData = useLoaderData();
@@ -12,10 +13,11 @@ const Home = () => {
             <div className='custom-bg'>
                 <Banner></Banner>
             </div>
-            <div className='border custom-area'>
+            <div className='custom-area'>
                 <JobCategory></JobCategory>
                 <FeaturedJobs loaderData={loaderData}></FeaturedJobs>
             </div>
+            <Footer></Footer>
         </div>
     );
 };
