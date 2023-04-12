@@ -40,9 +40,9 @@ const data = [
 
 const Statistics = () => {
     return (
-        <div className=''>
-            <h1 className='text-3xl text-center custom-bg p-5'>Assignment Marks</h1>
-            <div className='custom-area mt-20 flex mb-20 rounded-md p-8'>
+        <div>
+            <h1 className='text-3xl text-center custom-bg p-10'>Assignment Marks</h1>
+            <div className='custom-area mt-20 mb-20'>
                 <AreaChart width={1000} height={300} data={data}>
                     <XAxis dataKey="name"
                         tick={{ fontSize: 9 }}

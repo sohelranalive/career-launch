@@ -26,9 +26,8 @@ const AppliedJobs = () => {
         <div>
             <h1 className='text-3xl text-center custom-bg p-10'>Applied Job</h1>
             <div className='custom-area mt-20 mb-20'>
-
                 <div className='flex gap-2 justify-end items-center'>
-                    <small>Filter</small>
+                    <small>Filter By: </small>
                     <button onClick={handleFilterRemoteJobs} className='border rounded-md px-3 py-1 border-purple-900 hover:bg-indigo-200'>Remote</button>
                     <button onClick={handleFilterOnsiteJobs} className='border rounded-md px-3 py-1 border-purple-900 hover:bg-indigo-200'>Onsite</button>
                 </div>
