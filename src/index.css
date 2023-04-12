@@ -48,3 +48,8 @@
   border-radius: 4px;
   color: white;
 }
+
+.c-text-style {
+  writing-mode: vertical-lr;
+  text-orientation: upright;
+}
