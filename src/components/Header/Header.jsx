@@ -5,7 +5,7 @@ const Header = () => {
     return (
         <div className='custom-bg'>
             <nav className='custom-area md:grid md:grid-cols-4 md:py-8 items-center'>
-                <div className='col-span-1 mb-5 md:mb-0 text-center md:text-start'>
+                <div className='col-span-1 mb-5 md:mb-0 text-center md:text-start pt-5 md:pt-0'>
                     <Link to='/' className='text-3xl'>CareerLaunch</Link>
                 </div>
                 <div className='col-span-2 flex md:justify-around justify-between mb-5 md:mb-0 f-dark'>
