@@ -5,6 +5,7 @@ import { BriefcaseIcon } from '@heroicons/react/24/outline'
 import { PhoneIcon } from '@heroicons/react/24/outline'
 import { EnvelopeIcon } from '@heroicons/react/24/outline'
 import { MapPinIcon } from '@heroicons/react/24/outline'
+import toast, { Toaster } from 'react-hot-toast';
 
 const JobDetails = () => {
 
@@ -13,6 +14,7 @@ const JobDetails = () => {
     const { id, jobDescription, jobResponsibility, educationalRequirements, experiences, salary, jobTitle, location, contact } = jobData;
 
     const handleApplyJob = (id) => {
+        toast('Your Application Successfully Placed');
         addToDb(id);
     }
 
@@ -63,6 +65,7 @@ const JobDetails = () => {
                     <button onClick={() => handleApplyJob(id)} className='bg-green-300 border mt-8 mx-auto w-full btn-bg-color text-white py-3 rounded-md'>Apply Now</button>
                 </div>
             </div>
+            <Toaster />
         </div>
     );
 };
