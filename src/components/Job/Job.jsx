@@ -1,5 +1,8 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
+import { CurrencyDollarIcon } from '@heroicons/react/24/outline'
+import { MapPinIcon } from '@heroicons/react/24/outline'
+
 
 const Job = ({ job }) => {
 
@@ -21,8 +24,14 @@ const Job = ({ job }) => {
                 <button className='border rounded-md px-5 py-2 border-purple-900 f-blue'>{fulltimeOrPartTime}</button>
             </div>
             <div className='flex gap-6 f-dark mt-4'>
-                <p>{location}</p>
-                <p>{salary}</p>
+                <div className='flex gap-2'>
+                    <MapPinIcon className="h-6 w-6" />
+                    <p>{location}</p>
+                </div>
+                <div className='flex gap-2'>
+                    <CurrencyDollarIcon className="h-6 w-6" />
+                    <p>{salary}</p>
+                </div>
             </div>
             <button onClick={() => handleJobDetails(id)} className='mt-6 btn-details'>View Details</button>
         </div>

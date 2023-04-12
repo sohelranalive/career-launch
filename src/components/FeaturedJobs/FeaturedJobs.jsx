@@ -10,10 +10,10 @@ const FeaturedJobs = ({ loaderData }) => {
     }
 
     return (
-        <div className='mt-32 mb-32'>
+        <div className='mt-20 mb-32' id='feature-jobs-area'>
             <h1 className='text-5xl text-center'>Featured Jobs</h1>
             <p className='text-center mt-4 mb-4'>Explore thousands of job opportunities with all the information you need. Its your future</p>
-            <div className='mt-8 grid grid-cols-2 gap-6'>
+            <div className='mt-10 grid grid-cols-1 md:grid-cols-2 gap-6'>
                 {
                     jobs.map(job => <Job
                         key={job.id}

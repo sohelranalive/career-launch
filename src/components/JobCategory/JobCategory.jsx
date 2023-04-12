@@ -16,10 +16,11 @@ const JobCategory = () => {
     }, [])
 
     return (
-        <div className='mt-32'>
+        <div className='mt-20'>
             <h1 className='text-5xl text-center'>Job Category List</h1>
             <p className='text-center mt-4 mb-4'>Explore thousands of job opportunities with all the information you need. Its your future</p>
-            <div className='flex pt-8 justify-between gap-6'>
+            <div className='md:grid grid-cols-4 gap-6 pt-8'>
+                {/* <div className='md:flex justify-between gap-6 pt-8'> */}
                 {
                     jobCate.map(cate => <Category key={cate.id} cate={cate}></Category>)
                 }

@@ -17,7 +17,6 @@ const Home = () => {
                 <JobCategory></JobCategory>
                 <FeaturedJobs loaderData={loaderData}></FeaturedJobs>
             </div>
-            <Footer></Footer>
         </div>
     );
 };

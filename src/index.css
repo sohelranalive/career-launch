@@ -17,7 +17,6 @@
 .f-dark {
   color: #757575;
   font-weight: 600;
-  font-size: 20px;
 }
 
 .f-blue {
@@ -32,6 +31,14 @@
   width: 190px;
   height: 65px;
   color: white;
+}
+
+.btn-bg-color {
+  background: linear-gradient(90deg, #7E90FE 0%, #9873FF 100%);
+}
+
+.f-blue {
+  color: linear-gradient(90deg, #7E90FE 0%, #9873FF 100%);
 }
 
 .btn-details {
