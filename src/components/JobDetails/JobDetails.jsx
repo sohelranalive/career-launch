@@ -1,15 +1,11 @@
 import React, { useEffect, useState } from 'react';
-import Footer from '../Footer/Footer';
-import { useLoaderData, useParams } from 'react-router-dom';
+import { useParams } from 'react-router-dom';
 import { addToDb } from '../../utilities/fakedb';
-// import { CurrencyDollarIcon } from '@heroicons/react/24/solid'
 import { CurrencyDollarIcon } from '@heroicons/react/24/outline'
 import { BriefcaseIcon } from '@heroicons/react/24/outline'
 import { PhoneIcon } from '@heroicons/react/24/outline'
 import { EnvelopeIcon } from '@heroicons/react/24/outline'
 import { MapPinIcon } from '@heroicons/react/24/outline'
-
-// import { CurrencyDollarIcon } from '@heroicons/react'
 
 const JobDetails = () => {
 

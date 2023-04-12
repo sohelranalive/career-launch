@@ -1,25 +1,25 @@
 [
     {
         "id": "643451ef2ea880e24db4fcb9",
-        "categoryLogo": "../src/assets/Icons/business 1.png",
+        "categoryLogo": "https://i.ibb.co/kyqyY9W/business.png",
         "categoryName": "Developer",
         "availableJobs": 300
     },
     {
         "id": "643451efcbe58bd97cf3dcf7",
-        "categoryLogo": "../src/assets/Icons/accounts 1.png",
+        "categoryLogo": "https://i.ibb.co/GT09p3d/account.png",
         "categoryName": "Finance and Accounts",
         "availableJobs": 150
     },
     {
         "id": "643451ef9562070998da95c0",
-        "categoryLogo": "../src/assets/Icons/social-media 1.png",
+        "categoryLogo": "https://i.ibb.co/5v9dFv8/social.png",
         "categoryName": "UI/UX Designer",
         "availableJobs": 200
     },
     {
         "id": "643451ef7d34a8c82876f3f6",
-        "categoryLogo": "../src/assets/Icons/chip 1.png",
+        "categoryLogo": "https://i.ibb.co/Tc9gkWm/chip.png",
         "categoryName": "Engineering Jobs",
         "availableJobs": 100
     }

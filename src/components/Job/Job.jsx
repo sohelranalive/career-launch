@@ -6,7 +6,7 @@ import { MapPinIcon } from '@heroicons/react/24/outline'
 
 const Job = ({ job }) => {
 
-    const { id, index, companyLogo, jobTitle, companyName, remoteOrOnsite, fulltimeOrPartTime, location, salary } = job;
+    const { id, companyLogo, jobTitle, companyName, remoteOrOnsite, fulltimeOrPartTime, location, salary } = job;
 
     const navigate = useNavigate();
 

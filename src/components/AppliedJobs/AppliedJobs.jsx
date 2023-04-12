@@ -1,12 +1,10 @@
 import React from 'react';
 import { useLoaderData } from 'react-router-dom';
-import { getShoppingCart } from '../../utilities/fakedb';
 import JobReview from '../JobReview/JobReview';
 
 const AppliedJobs = () => {
 
     const appliedJobs = useLoaderData()
-    const { companyLogo, jobTitle, companyName, fulltimeOrPartTime, remoteOrOnsite, location, salary } = appliedJobs
 
     return (
         <div>

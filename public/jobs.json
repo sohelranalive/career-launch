@@ -2,7 +2,7 @@
     {
         "id": "6433977a184a6532ce085d87",
         "index": 0,
-        "companyLogo": "../src/assets/Logo/google.png",
+        "companyLogo": "https://i.ibb.co/xFKZWGc/google.png",
         "jobTitle": "Frontend Developer",
         "companyName": "Google",
         "remoteOrOnsite": "Remote",
@@ -19,7 +19,7 @@
     {
         "id": "6433977a427b7f8bcfbfb9cd",
         "index": 1,
-        "companyLogo": "../src/assets/Logo/netflix.png",
+        "companyLogo": "https://i.ibb.co/0CSjDwb/netflix.png",
         "jobTitle": "Backend Developer",
         "companyName": "NetFlix",
         "remoteOrOnsite": "Onsite",
@@ -36,7 +36,7 @@
     {
         "id": "6433977a0a66e5b018b15eb2",
         "index": 2,
-        "companyLogo": "../src/assets/Logo/amazon.png",
+        "companyLogo": "https://i.ibb.co/Q8ypC8P/amazon.png",
         "jobTitle": "Full Stack Developer",
         "companyName": "Amazon Web Services",
         "remoteOrOnsite": "Onsite",
@@ -53,7 +53,7 @@
     {
         "id": "6433977a61a0d6b7b099d0a6",
         "index": 3,
-        "companyLogo": "../src/assets/Logo/tesla.png",
+        "companyLogo": "https://i.ibb.co/cQYQyqW/tesla.png",
         "jobTitle": "Frontend Developer",
         "companyName": "Tesla",
         "remoteOrOnsite": "Remote",
@@ -70,7 +70,7 @@
     {
         "id": "6433977a89a2d6cef6af7935",
         "index": 4,
-        "companyLogo": "../src/assets/Logo/facebook.png",
+        "companyLogo": "https://i.ibb.co/MfhmmZ3/facebook.png",
         "jobTitle": "Backend Developer",
         "companyName": "Facebook",
         "remoteOrOnsite": "Onsite",
@@ -87,7 +87,7 @@
     {
         "id": "6433977a8838007cc4a4ebfb",
         "index": 5,
-        "companyLogo": "../src/assets/Logo/microsoft.png",
+        "companyLogo": "https://i.ibb.co/Kbk8T7g/microsoft.png",
         "jobTitle": "Backend Developer",
         "companyName": "Microsoft",
         "remoteOrOnsite": "Onsite",
