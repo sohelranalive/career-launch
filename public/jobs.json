@@ -13,8 +13,10 @@
         "jobResponsibility": "Design and implement responsive and accessible web interfaces. Collaborate with UX/UI designers and backend developers to implement new features and improve existing functionalities. Write clean and maintainable code following coding standards. Perform testing and debugging of web applications. Stay updated with the latest frontend technologies and best practices.",
         "educationalRequirements": "Bachelor’s degree in Computer Science or related field.",
         "experiences": "Minimum of 2 years of experience in frontend web development.",
-        "phone": "575-123-4567",
-        "email": "google@gmail.com"
+        "contact": {
+            "phone": "575-123-4567",
+            "email": "google@gmail.com"
+        }
     },
     {
         "id": "6433977a427b7f8bcfbfb9cd",
@@ -30,8 +32,10 @@
         "jobResponsibility": "Design and implement efficient and scalable server-side architectures. Collaborate with frontend developers and database administrators to implement backend functionalities. Write clean and maintainable code following coding standards. Perform testing and debugging of backend applications. Stay updated with the latest backend technologies and best practices.",
         "educationalRequirements": "Bachelor’s degree in Computer Science or related field.",
         "experiences": "Minimum of 3 years of experience in backend development.",
-        "phone": "555-123-4567",
-        "email": "awsjobs@gmail.com"
+        "contact": {
+            "phone": "555-123-4567",
+            "email": "awsjobs@gmail.com"
+        }
     },
     {
         "id": "6433977a0a66e5b018b15eb2",
@@ -47,8 +51,10 @@
         "jobResponsibility": "Design and implement user-friendly web interfaces. Develop server-side logic, APIs, and integrate with databases. Write clean and maintainable code following coding standards. Perform testing and debugging of web applications. Collaborate with frontend and backend developers to implement new features and improve existing functionalities. Stay updated with the latest web development technologies and best practices.",
         "educationalRequirements": "Bachelor’s degree in Computer Science or related field.",
         "experiences": "Minimum of 4 years of experience in web development.",
-        "phone": "555-123-4567",
-        "email": "awsjobs@gmail.com"
+        "contact": {
+            "phone": "555-123-4567",
+            "email": "awsjobs@gmail.com"
+        }
     },
     {
         "id": "6433977a61a0d6b7b099d0a6",
@@ -64,8 +70,10 @@
         "jobResponsibility": "Design and implement responsive and accessible web interfaces. Collaborate with UX/UI designers and backend developers to implement new features and improve existing functionalities. Write clean and maintainable code following coding standards. Perform testing and debugging of web applications. Stay updated with the latest frontend technologies and best practices.",
         "educationalRequirements": "Bachelor’s degree in Computer Science or related field.",
         "experiences": "Minimum of 2 years of experience in frontend web development.",
-        "phone": "555-123-4567",
-        "email": "tesla@gmail.com"
+        "contact": {
+            "phone": "555-123-4567",
+            "email": "tesla@gmail.com"
+        }
     },
     {
         "id": "6433977a89a2d6cef6af7935",
@@ -81,8 +89,10 @@
         "jobResponsibility": "Design and implement scalable and efficient backend systems. Collaborate with frontend developers and database administrators to optimize performance and improve functionality. Write clean and maintainable code following coding standards. Perform testing and debugging of server-side applications. Stay updated with the latest backend technologies and best practices.",
         "educationalRequirements": "Bachelor’s degree in Computer Science or related field.",
         "experiences": "Minimum of 3 years of experience in backend web development.",
-        "phone": "555-287-4567",
-        "email": "facebook@gmail.com"
+        "contact": {
+            "phone": "555-287-4567",
+            "email": "facebook@gmail.com"
+        }
     },
     {
         "id": "6433977a8838007cc4a4ebfb",
@@ -98,7 +108,9 @@
         "jobResponsibility": "Design and implement scalable and efficient backend systems. Collaborate with frontend developers and database administrators to optimize performance and improve functionality. Write clean and maintainable code following coding standards. Perform testing and debugging of server-side applications. Stay updated with the latest backend technologies and best practices.",
         "educationalRequirements": "Bachelor’s degree in Computer Science or related field.",
         "experiences": "Minimum of 3 years of experience in backend web development.",
-        "phone": "555-123-4567",
-        "email": "microsoftHR@outlook.com"
+        "contact": {
+            "phone": "555-123-4567",
+            "email": "microsoftHR@outlook.com"
+        }
     }
 ]
